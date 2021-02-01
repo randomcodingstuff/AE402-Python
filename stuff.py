@@ -1,0 +1,6 @@
+print("Hello world!")
+print(5)
+print(type("123"))
+print("I'm ","Yoshi, ","I'm ","'cool'! ")
+name=input("What is your name?")
+print("Give me all your money, "+ name+("."))
