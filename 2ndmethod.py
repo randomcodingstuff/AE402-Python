@@ -12,7 +12,7 @@ for i in range(0,2*n):
     print(score)
     if i%2==1:
         score[i]=int(score[i])
-        summath=summath+score[1]
+        summath=summath+score[i]
         if highest<score[i]:
             highest=score[i]
             highestname=score[i-1]
